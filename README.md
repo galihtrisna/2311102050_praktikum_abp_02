@@ -1,6 +1,6 @@
-# Tugas Praktikum - Pemrograman Web (ABP)
+# Tugas Praktikum - APLIKASI BERBASIS PLATFORM (ABP)
 
-Repository ini berisi *source code* untuk tugas praktikum mata kuliah Arsitektur Berbasis Platform.
+Repository ini berisi *source code* untuk tugas praktikum mata kuliah APLIKASI BERBASIS PLATFORM.
 
 ## Praktikum Pertemuan 01
 Halaman web interaktif bertema Ramadan menggunakan Bootstrap 5. 
