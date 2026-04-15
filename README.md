@@ -28,5 +28,18 @@ Sistem Penilaian Mahasiswa menggunakan PHP untuk mengolah data nilai secara dina
 ### Screenshot Hasil
 ![Screenshot Sistem Penilaian](/2311102050_Pertemuan03/preview.png)
 
+---
+
+## Praktikum Pertemuan 04
+Implementasi **AJAX** menggunakan `Fetch API` untuk mengambil data JSON tanpa reload halaman.
+
+**Fitur:**
+* **data.php**: API sederhana yang mengirim data dalam format JSON.
+* **index.html**: Tampilan menggunakan Bootstrap 5.
+* **AJAX Logic**: Menggunakan `fetch()` untuk mengambil data dan memperbarui DOM secara asinkron.
+
+### Screenshot Hasil
+![Screenshot AJAX Profile](/2311102050_Pertemuan04/preview.png)
+
 <br>
 <p align="center">Made with ❤️ by <b>Galih Trisna</b><br>2311102050</p>
