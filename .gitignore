@@ -1,0 +1,41 @@
+# Dependency directories (Node.js & PHP)
+**/node_modules/
+**/vendor/
+
+# Laravel specific (Recursive for any Laravel sub-folder)
+**/.env
+**/.env.backup
+**/.env.production
+**/storage/*.key
+**/storage/framework/cache/data/*
+**/storage/framework/sessions/*
+**/storage/framework/views/*.php
+**/storage/logs/*.log
+**/public/storage
+**/public/build
+**/public/hot
+**/.phpunit.cache
+**/.phpunit.result.cache
+
+# Application specific
+**/npm-debug.log
+**/yarn-error.log
+**/auth.json
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
+.fleet/
+.nova/
+.zed/

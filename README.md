@@ -41,5 +41,28 @@ Implementasi **AJAX** menggunakan `Fetch API` untuk mengambil data JSON tanpa re
 ### Screenshot Hasil
 ![Screenshot AJAX Profile](/2311102050_Pertemuan04/preview.png)
 
+---
+
+## Praktikum Pertemuan 05
+Sistem Inventaris Toko Pak Cokomi & Mas Wowo menggunakan Laravel, Inertia.js, dan React.
+
+**Fitur:**
+* **CRUD Produk**: Pengelolaan data produk lengkap (Create, Read, Update, Delete).
+* **Authentication**: Sistem login dan registrasi menggunakan **Laravel Breeze**.
+* **Database Factory & Seeder**: Generate data produk otomatis untuk pengujian.
+* **UI/UX**: Tampilan modern dengan Data Table, Form yang responsif, dan Modal konfirmasi hapus.
+
+### Screenshot Hasil
+<div align="center">
+  <img src="/2311102050_Pertemuan05/preview1.webp" width="45%" />
+  <img src="/2311102050_Pertemuan05/preview2.webp" width="45%" />
+  <img src="/2311102050_Pertemuan05/preview3.webp" width="45%" />
+  <img src="/2311102050_Pertemuan05/preview4.webp" width="45%" />
+  <img src="/2311102050_Pertemuan05/preview5.webp" width="45%" />
+  <img src="/2311102050_Pertemuan05/preview6.webp" width="45%" />
+  <img src="/2311102050_Pertemuan05/preview7.webp" width="45%" />
+  <img src="/2311102050_Pertemuan05/preview8.webp" width="45%" />
+</div>
+
 <br>
 <p align="center">Made with ❤️ by <b>Galih Trisna</b><br>2311102050</p>
