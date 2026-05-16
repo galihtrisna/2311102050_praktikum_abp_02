@@ -1,10 +1,3 @@
-# Tugas Praktikum Modul Flutter - Pertemuan 07
-
-## Nama: Galih Trisna
-## NIM: 2311102050
-
-Project Flutter ini dibuat untuk memenuhi tugas praktikum yang mendemonstrasikan penggunaan berbagai widget UI dasar dalam Flutter.
-
 ### Widget yang Diimplementasikan:
 1.  **Container**
 2.  **GridView**
