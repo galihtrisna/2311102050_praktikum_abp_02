@@ -62,7 +62,26 @@ Sistem Inventaris Toko Pak Cokomi & Mas Wowo menggunakan Laravel, Inertia.js, da
   <img src="/2311102050_Pertemuan05/preview6.webp" width="45%" />
   <img src="/2311102050_Pertemuan05/preview7.webp" width="45%" />
   <img src="/2311102050_Pertemuan05/preview8.webp" width="45%" />
-</div>
+  </div>
 
-<br>
-<p align="center">Made with ❤️ by <b>Galih Trisna</b><br>2311102050</p>
+  ---
+
+  ## Praktikum Pertemuan 07
+
+  **Widget yang Diimplementasikan:**
+  * **Layouting**: `Container` untuk styling/box model dan `Stack` untuk menumpuk elemen visual.
+  * **Scrollable Views**: 
+    * `GridView`: Menampilkan data dalam format grid 3 kolom.
+    * `ListView`: List statis sederhana.
+    * `ListView.builder`: Merender data array secara dinamis (Lazy Loading).
+    * `ListView.separated`: List dengan pembatas (`Divider`) antar item.
+
+  ### Screenshot Hasil
+  <div align="center">
+  <img src="/2311102050_Pertemuan07/preview1.png" width="30%" />
+  <img src="/2311102050_Pertemuan07/preview2.png" width="30%" />
+  <img src="/2311102050_Pertemuan07/preview3.png" width="30%" />
+  </div>
+
+  <br>
+  <p align="center">Made with ❤️ by <b>Galih Trisna</b><br>2311102050</p>
