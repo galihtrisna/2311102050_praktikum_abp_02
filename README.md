@@ -85,3 +85,29 @@ Sistem Inventaris Toko Pak Cokomi & Mas Wowo menggunakan Laravel, Inertia.js, da
 
   <br>
   <p align="center">Made with ❤️ by <b>Galih Trisna</b><br>2311102050</p>
+
+  ---
+
+  ## Praktikum Pertemuan 08
+  Aplikasi Flutter yang mengintegrasikan **Hardware API** (Kamera & Galeri) dan **Notifikasi Lokal**.
+
+  **Fitur & Widget yang Digunakan:**
+  * **Image Picker**: Menggunakan package `image_picker` untuk mengambil foto langsung dari kamera atau memilih gambar dari galeri perangkat.
+  * **Local Notifications**: Menggunakan package `flutter_local_notifications` untuk memicu notifikasi sistem segera setelah gambar berhasil diambil/dipilih.
+  * **Hardware Integration**: Implementasi izin (permissions) untuk kamera dan notifikasi pada platform Android.
+  * **Widget Detail**:
+      * `Image.file`: Menampilkan file gambar yang dipilih dari penyimpanan lokal perangkat.
+      * `ImagePicker`: Komponen utama untuk interaksi dengan sistem file media dan kamera.
+      * `FlutterLocalNotificationsPlugin`: Mengelola inisialisasi dan pengiriman notifikasi ke *tray* sistem.
+      * `StatefulWidget`: Menangani perubahan UI secara reaktif saat gambar baru dimuat.
+
+  ### Screenshot Hasil
+  <div align="center">
+  <img src="/2311102050_Pertemuan08/preview1.png" width="24%" />
+  <img src="/2311102050_Pertemuan08/preview2.png" width="24%" />
+  <img src="/2311102050_Pertemuan08/preview3.png" width="24%" />
+  <img src="/2311102050_Pertemuan08/preview4.png" width="24%" />
+  </div>
+
+  <br>
+  <p align="center">Made with ❤️ by <b>Galih Trisna</b><br>2311102050</p>
