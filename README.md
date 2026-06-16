@@ -109,5 +109,19 @@ Sistem Inventaris Toko Pak Cokomi & Mas Wowo menggunakan Laravel, Inertia.js, da
   <img src="/2311102050_Pertemuan08/preview4.png" width="24%" />
   </div>
 
+  ---
+
+  ## Praktikum Pertemuan 09-10
+  Aplikasi Flutter sederhana yang mengimplementasikan **State Management Provider** dan **Firebase Cloud Messaging (FCM)**.
+
+  **Fitur & Implementasi:**
+  * **To-Do List & Provider**: Halaman daftar tugas sederhana yang menggunakan `Provider` untuk mengelola state data tugas secara reaktif.
+  * **Manajemen State**: Penambahan tugas menggunakan fungsi `addTodo()` yang memanggil `notifyListeners()`, sehingga UI (`ListView`) langsung diperbarui tanpa me-reload aplikasi. Terdapat juga fitur menghapus seluruh tugas.
+  * **Firebase Cloud Messaging (FCM)**: Integrasi dengan layanan push notification dari Firebase. Aplikasi mampu menerima notifikasi meskipun berada di *background*.
+  * **FcmService**: Menangani izin notifikasi dan integrasi token perangkat agar notifikasi dari Firebase Console/Postman muncul pada *notification tray* Android.
+
+  ### Dokumentasi Hasil
+  Bisa dilihat pada laporan PDF yang disertakan: [Laporan.pdf](/2311102050_Pertemuan09-10/Laporan.pdf)
+
   <br>
   <p align="center">Made with ❤️ by <b>Galih Trisna</b><br>2311102050</p>
