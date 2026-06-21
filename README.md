@@ -123,5 +123,24 @@ Sistem Inventaris Toko Pak Cokomi & Mas Wowo menggunakan Laravel, Inertia.js, da
   ### Dokumentasi Hasil
   Bisa dilihat pada laporan PDF yang disertakan: [Laporan.pdf](/2311102050_Pertemuan09-10/Laporan.pdf)
 
+  ## Praktikum Pertemuan 11
+
+Aplikasi Flutter sederhana yang mengimplementasikan **State Management BLoC/Cubit** untuk mengelola data keranjang belanja secara reaktif.
+
+**Fitur & Implementasi:**
+
+* **Daftar Produk & BLoC/Cubit**: Halaman utama menampilkan daftar produk elektronik Xiaomi yang terdiri dari minimal lima produk. Pengelolaan data keranjang menggunakan BLoC/Cubit agar state aplikasi dapat berubah secara reaktif.
+* **Manajemen Keranjang**: Pengguna dapat menambahkan produk ke keranjang melalui tombol **Tambah**. Produk yang sudah masuk ke keranjang juga dapat dihapus melalui tombol ikon hapus pada halaman keranjang belanja.
+* **Jumlah Item Real-Time**: Jumlah item pada keranjang ditampilkan dalam badge di ikon keranjang. Nilainya langsung berubah ketika produk ditambahkan atau dihapus tanpa perlu me-restart aplikasi.
+* **BlocProvider & BlocBuilder**: `BlocProvider` digunakan untuk menyediakan `CartCubit` pada widget tree, sedangkan `BlocBuilder` digunakan untuk membangun ulang tampilan daftar keranjang dan badge jumlah item ketika state berubah.
+* **Produk Xiaomi**: Produk yang ditampilkan meliputi Xiaomi 14T Pro, Xiaomi Redmi Note 13 Pro+, Xiaomi Pad 6, Xiaomi Smart Band 8, dan Xiaomi 33W Power Bank 10000mAh.
+
+### Dokumentasi Hasil
+
+Bisa dilihat pada laporan PDF yang disertakan: [Laporan.pdf](/2311102050_Pertemuan11/Laporan.pdf)
+
+
   <br>
   <p align="center">Made with ❤️ by <b>Galih Trisna</b><br>2311102050</p>
+
+  
